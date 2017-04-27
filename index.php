@@ -1,0 +1,4 @@
+<?php
+
+echo 'Proyeto chatLab';
+
